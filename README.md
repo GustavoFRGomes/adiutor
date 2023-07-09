@@ -1,8 +1,8 @@
-## Auditor
+# Auditor
 
 This is the repository for an ambitious idea, a set of tools for both web, Android and iOS that can help me presenting myself to the world, and ultimately it's more about the challenge to make all these small integrations and banging my head on the wall when some of the products have convulted ways of exposing the information I want to get from them.
 
-# Repo Organization
+## Repo Organization
 
 This will be a monorepo which should contain both mobile apps that help me fetch my own data when I am using my mobile devices, as well as both some server side technologies, and the culmination of my work, the web app what can introduce me to the world.
 
